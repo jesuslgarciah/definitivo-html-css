@@ -1,13 +1,13 @@
 # Curso definitivo de HTML y CSS
 
 ## Algunas notas
-![](./notes.md)
+[Link](./notes.md)
 
 ## Paginas dinámicas VS estáticas
-![](./pages_dinamics_statics.md)
+[Link](./pages_dinamics_statics.md)
 
 ## Anatomia HTML
-![](./html_anatomy.md)
+[Link](./html_anatomy.md)
 
 ## Formato y tipos de imágenes
-![](./images_types.md)
+[Link](./images_types.md)
